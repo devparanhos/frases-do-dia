@@ -1,5 +1,7 @@
 # Frase do Dia
 
+**Projeto da Udemy**
+
 Está desmotivado? Precisa de uma frase para inspirar o seu dia? Então acesse essa aplicação e descubra qual a frase para o seu dia.
 
 ### Objetivo
